@@ -17,6 +17,8 @@ function App() {
     fontSize: 30
   }
 
+  
+
   return (
     <>
       <h1 className='judul' style={{color: styleObj.color, fontSize: styleObj.fontSize}}>Kantin {nama}</h1>
